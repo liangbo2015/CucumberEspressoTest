@@ -1,5 +1,6 @@
 Just workshop project for testing Cucumber + Espresso tests for Android with Kotlin
 
+In Windows  OS
 
 Run all tests
 

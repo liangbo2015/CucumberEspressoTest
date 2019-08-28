@@ -10,3 +10,8 @@ gradlew connectedCheck -Pcucumber
 Run tests by tag
 
 gradlew connectedCheck -Pcucumber -Ptags="@smoke"
+
+
+Report
+
+CucumberEspressoTest/app/build/reports/androidTests/connected/index.html
